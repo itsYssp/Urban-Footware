@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Poetsen+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
 
 * {
@@ -189,7 +189,7 @@ span a:hover {
 
 .header-text,.header-img{
     flex-basis: 45%;
-    width: 100%;
+    width: 90%;
     margin-top: 80px;
 }
 
