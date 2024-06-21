@@ -532,6 +532,7 @@ span a:hover {
     display: flex;
     padding: 0 10px;
     margin-bottom: 20px;
+ margin-top:80px;
 }
 
 .pic {
